@@ -1,4 +1,5 @@
 dwave-ocean-sdk>=4.3.0
+dwave-neal
 
 notebook~=7.0
 jupyter
@@ -6,3 +7,4 @@ jupyter
 pandas
 matplotlib~=3.0
 seaborn
+
