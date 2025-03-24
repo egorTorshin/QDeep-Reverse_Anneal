@@ -7,3 +7,4 @@ pandas
 matplotlib~=3.0
 seaborn
 
+dimod
