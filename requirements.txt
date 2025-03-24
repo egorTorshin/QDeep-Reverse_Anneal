@@ -1,5 +1,4 @@
-dwave-ocean-sdk>=4.3.0
-dwave-neal
+qdeepsdk
 
 notebook~=7.0
 jupyter
