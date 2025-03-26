@@ -5,7 +5,7 @@
   https://circleci.com/gh/dwave-examples/reverse-annealing-notebook.svg?style=shield)](
   https://circleci.com/gh/dwave-examples/reverse-annealing-notebook)
 
-#Important note
+# Important note
 This repository is a fork of D-Wave's original rna-folding. The contributors to this fork do not claim ownership or authorship of the original codebase. All credit for the original work belongs to D-Wave Systems and its respective contributors.
 
 # Reverse Anneal
